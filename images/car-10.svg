@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#f3f7ea" rx="12"/>
+  <g fill="#4b8b3b" font-family="Helvetica, Arial, sans-serif">
+    <text x="50%" y="45%" text-anchor="middle" font-size="36" font-weight="700">Car 10</text>
+    <text x="50%" y="55%" text-anchor="middle" font-size="18">Hybrid — EcoCruise</text>
+  </g>
+</svg>

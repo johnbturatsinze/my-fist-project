@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100" viewBox="0 0 360 100" role="img" aria-label="Car Move Solutions logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#4b79a1" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#6aa0d6" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="none"/>
+  <!-- car icon -->
+  <g transform="translate(8,12)">
+    <path d="M12 48 L26 30 L86 30 L98 48 Z" fill="url(#g)" fill-opacity="0.95" stroke="#3b6f9a" stroke-width="1.2" />
+    <circle cx="34" cy="52" r="6" fill="#2c5d84" />
+    <circle cx="78" cy="52" r="6" fill="#2c5d84" />
+  </g>
+  <!-- wordmark + tagline -->
+  <g transform="translate(110,26)">
+    <text x="0" y="20" font-family="Poppins, Arial, Helvetica, sans-serif" font-size="20" fill="#234e78">Car Move</text>
+    <text x="0" y="42" font-family="Poppins, Arial, Helvetica, sans-serif" font-size="12" fill="#5b728a">Solutions</text>
+    <text x="0" y="60" font-family="Poppins, Arial, Helvetica, sans-serif" font-size="11" fill="#6b7280">Car rentals · Leasing · Airport pickup</text>
+  </g>
+</svg>

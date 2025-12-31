@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="100%" height="100%" fill="#eaf6ee" rx="12"/>
+  <g fill="#0b9b54" font-family="Helvetica, Arial, sans-serif">
+    <text x="50%" y="42%" text-anchor="middle" font-size="44" font-weight="700">SUV</text>
+    <text x="50%" y="52%" text-anchor="middle" font-size="20">TrailMaster — Spacious & Reliable</text>
+  </g>
+</svg>
